@@ -1,0 +1,25 @@
+.courencies {
+    width: 95%;
+    min-height: 270px;
+    border-radius: 5px;
+    background-color: rgba(245, 0, 87, 0.73);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    margin: 10px auto;
+}
+
+.Options p, .Options input {
+    color: rgb(63, 81, 181);
+}
+
+.Options input {
+    margin-top: 5px;
+}
+
+.result-block {
+    background-color: rgba(255, 226, 226, 0.65);
+    color: black;
+    min-height: 266px;
+    border-radius: 5px;
+    padding: 20px;
+}
